@@ -1,6 +1,6 @@
 I have no affiliation with the termux project, nor do they endorse this script.  
 You use this script at your own risk and are expected to use it responsibly. 
-## DO NOT USE THIS SCRIPT TO ABUSE THE TMUX REPOSITORY SERVER!
+## DO NOT USE THIS SCRIPT TO ABUSE THE TERMUX REPOSITORY SERVER!
 
 # Description
 If you have an air-gapped android system with termux installed on it, you may want to install packages for that system to be useful.  The built-in package manager for termux tends to want an internet connection (and if your system is air-gapped, this presents a problem).  
